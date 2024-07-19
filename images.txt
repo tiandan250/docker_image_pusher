@@ -8,3 +8,7 @@
 archlinux
 mogeko/archlinux:latest
 --platform=linux/amd64 mogeko/archlinux
+
+ubuntu
+mogeko/archlinux:ubuntu
+--platform=linux/amd64 mogeko/ubuntu

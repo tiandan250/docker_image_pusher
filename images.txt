@@ -10,5 +10,5 @@ mogeko/archlinux:latest
 --platform=linux/amd64 mogeko/archlinux
 
 ubuntu
-mubuntu:latest
+ubuntu:latest
 --platform=linux/amd64 ubuntu
